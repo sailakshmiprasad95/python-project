@@ -6,6 +6,6 @@ dig=num%10
 rev=rev*10+dig
 num=num/10
 if(temp==rev):
-	print("The number is palindrome")
+	print("The number is pal")
 else:
 	print("not a palindrome")
